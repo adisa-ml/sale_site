@@ -1,5 +1,5 @@
 // 1) Вставь свой Telegram сюда:
-const TELEGRAM_LINK = "https://t.me/your_username";
+const TELEGRAM_LINK = "https://t.me/VerbitskayaAF";
 
 // 2) Добавляй товары в этот список.
 // category: clothes / auto / other
@@ -13,7 +13,7 @@ const PRODUCTS = [
     short: "Хорошее состояние, размер S-M.",
     description: "Красивое зеленое платье в хорошем состоянии. Подойдет на размер S-M. Фото и дополнительные замеры могу отправить в Telegram.",
     photos: [
-      "images/placeholder-1.jpg",
+      "images/IMG_0612 Малый.jpeg",
       "images/placeholder-2.jpg"
     ]
   },
