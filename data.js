@@ -14,7 +14,7 @@ const PRODUCTS = [
     description: "Красивое зеленое платье в хорошем состоянии. Подойдет на размер S-M. Фото и дополнительные замеры могу отправить в Telegram.",
     photos: [
       "images/IMG_0612 Малый.jpeg",
-      "images/placeholder-1.jpg"
+      "images/IMG_0612 Крупный.jpeg"
     ]
   },
   {
@@ -25,7 +25,7 @@ const PRODUCTS = [
     short: "Удобный органайзер для багажника.",
     description: "Органайзер для автомобиля. Помогает хранить мелочи, автохимию и аксессуары в порядке. Состояние хорошее.",
     photos: [
-      "images/placeholder-1.jpg"
+      "images/IMG_0612 Крупный.jpeg"
     ]
   },
   {
@@ -36,7 +36,7 @@ const PRODUCTS = [
     short: "Рабочая лампа для дома.",
     description: "Настольная лампа в рабочем состоянии. Подойдет для рабочего стола, спальни или дачи.",
     photos: [
-      "images/placeholder-1.jpg"
+      "images/IMG_0612 Крупный.jpeg"
     ]
   }
 ];
