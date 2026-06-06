@@ -212,3 +212,64 @@ h2 {
     position: static;
   }
 }
+
+.gallery img {
+width: 100%;
+height: auto;
+object-fit: contain;
+cursor: zoom-in;
+}
+
+.image-modal {
+display: none;
+position: fixed;
+inset: 0;
+z-index: 999;
+background: rgba(0,0,0,0.92);
+align-items: center;
+justify-content: center;
+}
+
+.image-modal.open {
+display: flex;
+}
+
+.image-modal img {
+max-width: 92vw;
+max-height: 92vh;
+object-fit: contain;
+}
+
+.modal-close,
+.modal-arrow {
+position: absolute;
+border: 0;
+background: white;
+color: black;
+cursor: pointer;
+border-radius: 999px;
+}
+
+.modal-close {
+top: 18px;
+right: 18px;
+width: 42px;
+height: 42px;
+font-size: 28px;
+}
+
+.modal-arrow {
+top: 50%;
+transform: translateY(-50%);
+width: 46px;
+height: 46px;
+font-size: 34px;
+}
+
+.modal-arrow.left {
+left: 18px;
+}
+
+.modal-arrow.right {
+right: 18px;
+}
