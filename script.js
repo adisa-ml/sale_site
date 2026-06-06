@@ -50,6 +50,7 @@ function renderProductPage() {
 
   const id = getParam("id");
   const item = PRODUCTS.find(product => product.id === id);
+  currentImages = item ? item.photos : [];
 
   if (!item) {
     page.innerHTML = `<div class="card"><h1>Товар не найден</h1><p>Проверь ссылку или вернись на главную.</p></div>`;
@@ -61,7 +62,7 @@ function renderProductPage() {
   page.innerHTML = `
     <section class="product-layout">
       <div class="gallery">
-        ${item.photos.map(photo => `<img src="${photo}" alt="${item.title}">`).join("")}
+        ${item.photos.map((photo, index) => `<img src="${photo}" alt="${item.title}" onclick="openImageModal(${index})">`).join("")}
       </div>
 
       <div class="card product-info">
@@ -78,3 +79,26 @@ function renderProductPage() {
 renderContactBar();
 renderCategoryPage();
 renderProductPage();
+
+let currentImages = [];
+let currentImageIndex = 0;
+
+function openImageModal(index) {
+currentImageIndex = index;
+document.getElementById("modal-image").src = currentImages[currentImageIndex];
+document.getElementById("image-modal").classList.add("open");
+}
+
+function closeImageModal() {
+document.getElementById("image-modal").classList.remove("open");
+}
+
+function prevImage() {
+currentImageIndex = (currentImageIndex - 1 + currentImages.length) % currentImages.length;
+document.getElementById("modal-image").src = currentImages[currentImageIndex];
+}
+
+function nextImage() {
+currentImageIndex = (currentImageIndex + 1) % currentImages.length;
+document.getElementById("modal-image").src = currentImages[currentImageIndex];
+}
