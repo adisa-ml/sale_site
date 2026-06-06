@@ -76,10 +76,6 @@ function renderProductPage() {
   `;
 }
 
-renderContactBar();
-renderCategoryPage();
-renderProductPage();
-
 let currentImages = [];
 let currentImageIndex = 0;
 
@@ -102,3 +98,7 @@ function nextImage() {
 currentImageIndex = (currentImageIndex + 1) % currentImages.length;
 document.getElementById("modal-image").src = currentImages[currentImageIndex];
 }
+
+renderContactBar();
+renderCategoryPage();
+renderProductPage();
