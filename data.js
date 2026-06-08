@@ -75,15 +75,15 @@ const PRODUCTS = [
   price: "3000 ₽",
   short: "Бачок омывателя для Lexus GS300.",
   description: "Бачок омывателя Lexus GS300.",
-  photos: ["images/IMG_0367 Крупный.jpeg"
-          ,"images/IMG_0368 Крупный.jpeg"
-          ,"images/IMG_0369 Крупный.jpeg"
-          ,"images/IMG_0370 Крупный.jpeg"
-          ,"images/IMG_0371 Крупный.jpeg"
-          ,"images/IMG_0372 Крупный.jpeg"
-          ,"images/IMG_0373 Крупный.jpeg"
-          ,"images/IMG_0374 Крупный.jpeg"
-          ,"images/IMG_0375 Крупный.jpeg"]
+  photos: ["images/auto/lexus-gs300-washer-tank/IMG_0367 Крупный.jpeg"
+          ,"images/auto/lexus-gs300-washer-tank/IMG_0368 Крупный.jpeg"
+          ,"images/auto/lexus-gs300-washer-tank/IMG_0369 Крупный.jpeg"
+          ,"images/auto/lexus-gs300-washer-tank/IMG_0370 Крупный.jpeg"
+          ,"images/auto/lexus-gs300-washer-tank/IMG_0371 Крупный.jpeg"
+          ,"images/auto/lexus-gs300-washer-tank/IMG_0372 Крупный.jpeg"
+          ,"images/auto/lexus-gs300-washer-tank/IMG_0373 Крупный.jpeg"
+          ,"images/auto/lexus-gs300-washer-tank/IMG_0374 Крупный.jpeg"
+          ,"images/auto/lexus-gs300-washer-tank/IMG_0375 Крупный.jpeg"]
   },
   {
   id: "hdmi-cable",
