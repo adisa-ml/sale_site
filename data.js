@@ -125,7 +125,7 @@ const PRODUCTS = [
   {
   id: "all-we-need-leather-jacket",
   category: "clothes",
-  title: "Косуха All We Need",
+  title: "Новая косуха All We Need",
   price: "5500 ₽",
   short: "Косуха All We Need.",
   description: "Косуха All We Need.",
@@ -141,12 +141,12 @@ const PRODUCTS = [
   photos: ["images/IMG_0612 Крупный.jpeg"]
   },
   {
-  id: "foam-roller-purple",
-  category: "other",
-  title: "МФР ролик 30×10 см средняя жесткость",
-  price: "224 ₽",
-  short: "МФР ролик, средняя жесткость.",
-  description: "МФР ролик 30×10 см, средняя жесткость.",
+  id: "vest-2mood-grey",
+  category: "clothes",
+  title: "Жилетка серая 2MOOD размер М",
+  price: "2500 ₽",
+  short: "Жилетка 2MOOD",
+  description: "Жилетка 2MOOD в отличном состоянии.",
   photos: ["images/IMG_0612 Крупный.jpeg"]
   },
   {
@@ -172,8 +172,8 @@ const PRODUCTS = [
   category: "auto",
   title: "Блок управления зеркалами Lexus GS300",
   price: "441 ₽",
-  short: "Блок управления зеркалами Lexus GS300.",
-  description: "Блок управления зеркалами Lexus GS300.",
+  short: "Блок управления зеркалами Lexus GS300 на запчасти.",
+  description: "Блок управления зеркалами Lexus GS300 на запчасти.",
   photos: ["images/IMG_0612 Крупный.jpeg"]
   },
   {
@@ -193,6 +193,262 @@ const PRODUCTS = [
   short: "Монитор Redmi.",
   description: "Монитор Redmi.",
   photos: ["images/IMG_0612 Крупный.jpeg"]
+  },
+  {
+  id: "zara-leather-pants",
+  category: "clothes",
+  title: "Кожаные брюки Zara размер 40-42",
+  price: "300 ₽",
+  short: "Кожаные брюки Zara, размер 40-42.",
+  description: "Женские кожаные брюки Zara. Размер 40-42.",
+  photos: ["images/demo.jpg"]
+  },
+  {
+  id: "ostin1-leather-pants",
+  category: "clothes",
+  title: "Кожаные брюки O'Stin размер 40-42",
+  price: "300 ₽",
+  short: "Кожаные брюки O'Stin, размер 40-42.",
+  description: "Женские кожаные брюки O'Stin. Размер 40-42.",
+  photos: ["images/demo.jpg"]
+  },
+  {
+  id: "ostin2-leather-pants",
+  category: "clothes",
+  title: "Кожаные кюлоты O'Stin размер 40-42",
+  price: "300 ₽",
+  short: "Кожаные кюлоты O'Stin, размер 40-42.",
+  description: "Женские кюлоты O'Stin. Размер 40-42.",
+  photos: ["images/demo.jpg"]
+  },
+
+  {
+  id: "calista-summer-dress",
+  category: "clothes",
+  title: "Платье летнее Calista размер 42",
+  price: "1648 ₽",
+  short: "Летнее платье Calista, размер 42.",
+  description: "Легкое летнее платье Calista, размер 42.",
+  photos: ["images/demo.jpg"]
+  },
+
+  {
+  id: "lime-slit-dress-xs",
+  category: "clothes",
+  title: "Новое платье Lime с разрезом размер XS",
+  price: "1098 ₽",
+  short: "Новое платье Lime с разрезом, размер XS.",
+  description: "Новое платье Lime с разрезом, размер XS.",
+  photos: ["images/demo.jpg"]
+  },
+
+  {
+  id: "mango-zarina-tops",
+  category: "clothes",
+  title: "Топ Mango и Zarina",
+  price: "329 ₽",
+  short: "Топы Mango и Zarina.",
+  description: "Женские топы Mango и Zarina.",
+  photos: ["images/demo.jpg"]
+  },
+
+  {
+  id: "zarina-knit-skirts",
+  category: "clothes",
+  title: "Юбка трикотажная Zarina/Befree/Noname размер XS-S",
+  price: "384 ₽ / 1шт",
+  short: "Трикотажная юбка Zarina.",
+  description: "Трикотажная юбка Zarina размер XS-S.",
+  photos: ["images/demo.jpg"]
+  },
+
+  {
+  id: "ribbed-leggings-m",
+  category: "clothes",
+  title: "Новые легинсы в рубчик Noname размер M",
+  price: "274 ₽",
+  short: "Новые легинсы в рубчик, размер M.",
+  description: "Женские легинсы в рубчик размер M.",
+  photos: ["images/demo.jpg"]
+  },
+
+  {
+  id: "uniqlo-mango-shirts",
+  category: "clothes",
+  title: "Рубашки женские Uniqlo и Mango",
+  price: "329 ₽ / 1шт",
+  short: "Женские рубашки Uniqlo и Mango.",
+  description: "Женские рубашки убашек Uniqlo и Mango.",
+  photos: ["images/demo.jpg"]
+  },
+
+  {
+  id: "maag-blazer-xs",
+  category: "clothes",
+  title: "Новый пиджак MAAG укороченный размер XS",
+  price: "769 ₽",
+  short: "Укороченный новый пиджак MAAG.",
+  description: "Новый пиджак MAAG укороченный, размер XS.",
+  photos: ["images/demo.jpg"]
+  },
+
+  {
+  id: "zara-transparent-blouse",
+  category: "clothes",
+  title: "Блузка Zara женская полупрозрачная",
+  price: "730 ₽",
+  short: "Полупрозрачная блузка Zara.",
+  description: "Женская полупрозрачная блузка Zara.",
+  photos: ["images/demo.jpg"]
+  },
+
+  {
+  id: "river-island-swimsuit",
+  category: "clothes",
+  title: "Купальник River Island размер S",
+  price: "350 ₽",
+  short: "Купальник River Island размер S.",
+  description: "Купальник River Island, размер S.",
+  photos: ["images/demo.jpg"]
+  },
+
+  {
+  id: "tezenis-swimsuit",
+  category: "clothes",
+  title: "Купальник tezenis размер S",
+  price: "350 ₽",
+  short: "Купальник tezenis размер S.",
+  description: "Купальник tezenis, размер S.",
+  photos: ["images/demo.jpg"]
+  },
+
+  {
+  id: "macbook-pro-2016",
+  category: "tech",
+  title: "Apple MacBook Pro 15 2016 Retina Touch Bar",
+  price: "38000 ₽",
+  short: "MacBook Pro 15 Retina Touch Bar 2016.",
+  description: "Apple MacBook Pro 15 Retina Touch Bar, 2016 год.",
+  photos: ["images/demo.jpg"]
+  },
+
+  {
+  id: "zaporozhets-anorak-l",
+  category: "clothes",
+  title: "Анорак Запорожец размер L",
+  price: "4000 ₽",
+  short: "Анорак Запорожец, размер L.",
+  description: "Анорак Запорожец размер L.",
+  photos: ["images/demo.jpg"]
+  },
+
+  {
+  id: "oxelo-scooter",
+  category: "other",
+  title: "Самокат Oxelo взрослый",
+  price: "3000 ₽",
+  short: "Взрослый самокат Oxelo.",
+  description: "Самокат Oxelo для взрослых.",
+  photos: ["images/demo.jpg"]
+  },
+
+  {
+  id: "zara-denim-shirt",
+  category: "clothes",
+  title: "Рубашка джинсовая Zara размер M",
+  price: "300 ₽",
+  short: "Рубашка Zara.",
+  description: "Джинсовая рубашка Zara размер M.",
+  photos: ["images/demo.jpg"]
+  },
+
+  {
+  id: "uniqlo-sweater",
+  category: "clothes",
+  title: "Джемпер Uniqlo",
+  price: "300 ₽",
+  short: "Джемпер Uniqlo.",
+  description: "Джемпер Uniqlo.",
+  photos: ["images/demo.jpg"]
+  },
+  {
+  id: "lime-dress-cotton-xs",
+  category: "clothes",
+  title: "Платье Lime размер XS хлопок",
+  price: "1000 ₽",
+  short: "Хлопковое платье Lime размер XS.",
+  description: "Платье Lime из хлопка, размер XS.",
+  photos: ["images/demo.jpg"]
+  },
+
+  {
+  id: "lime-dress-gathered-s",
+  category: "clothes",
+  title: "Платье Lime размер S, со сборкой",
+  price: "879 ₽",
+  short: "Платье Lime со сборкой, размер S.",
+  description: "Женское платье Lime со сборкой, размер S.",
+  photos: ["images/demo.jpg"]
+  },
+
+  {
+  id: "befree-red-jacket-xs",
+  category: "clothes",
+  title: "Куртка демисезонная Befree размер XS",
+  price: "887 ₽",
+  short: "Демисезонная куртка Befree.",
+  description: "Куртка Befree размер XS.",
+  photos: ["images/demo.jpg"]
+  },
+
+  {
+  id: "lime-red-dress-xs",
+  category: "clothes",
+  title: "Платье Lime размер XS",
+  price: "800 ₽",
+  short: "Красное платье Lime размер XS.",
+  description: "Платье Lime размер XS.",
+  photos: ["images/demo.jpg"]
+  },
+
+  {
+  id: "charmstore-pantsuit-xs-s",
+  category: "clothes",
+  title: "Брючный костюм Charmstore XS/S",
+  price: "5868 ₽",
+  short: "Брючный костюм Charmstore.",
+  description: "Брючный костюм Charmstore размер XS/S.",
+  photos: ["images/demo.jpg"]
+  },
+
+  {
+  id: "lime-palazzo-pants-xs",
+  category: "clothes",
+  title: "Брюки-палаццо Lime XS",
+  price: "1760 ₽",
+  short: "Брюки-палаццо Lime.",
+  description: "Брюки-палаццо Lime размер XS.",
+  photos: ["images/demo.jpg"]
+  },
+
+  {
+  id: "uniqlo-baggy-curve-jeans",
+  category: "clothes",
+  title: "Новые широкие джинсы Uniqlo Baggy Curve оригинал",
+  price: "2500 ₽",
+  short: "Оригинальные джинсы Uniqlo Baggy Curve.",
+  description: "Широкие джинсы Uniqlo Baggy Curve Original. Ни разу не носились.",
+  photos: ["images/demo.jpg"]
+  },
+
+  {
+  id: "lime-blazer-l",
+  category: "clothes",
+  title: "Блейзер-пиджак Lime размер L",
+  price: "4157 ₽",
+  short: "Блейзер Lime размер L.",
+  description: "Пиджак-блейзер Lime размер L.",
+  photos: ["images/demo.jpg"]
   }
 ];
 
