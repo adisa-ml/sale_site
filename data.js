@@ -21,7 +21,17 @@ const PRODUCTS = [
   price: "33999 ₽ за 4 шт.",
   short: "Летние колеса R18 в сборе.",
   description: "Летние колеса R18 в сборе, комплект 4 штуки.",
-  photos: ["images/IMG_0612 Крупный.jpeg"]
+  photos: ["images/auto/r18-wheels/FullSizeRender 9 Крупный.jpeg"
+          ,"images/auto/r18-wheels/FullSizeRender 2 Крупный.jpeg"
+          ,"images/auto/r18-wheels/FullSizeRender 3 Крупный.jpeg"
+          ,"images/auto/r18-wheels/FullSizeRender 4 Крупный.jpeg"
+          ,"images/auto/r18-wheels/FullSizeRender 5 Крупный.jpeg"
+          ,"images/auto/r18-wheels/FullSizeRender 6 Крупный.jpeg"
+          ,"images/auto/r18-wheels/FullSizeRender 7 Крупный.jpeg"
+          ,"images/auto/r18-wheels/FullSizeRender 8 Крупный.jpeg"
+          ,"images/auto/r18-wheels/FullSizeRender 10 Крупный.jpeg"
+          ,"images/auto/r18-wheels/FullSizeRender 11 Крупный.jpeg"
+        ]
   },
   {
   id: "air-jordan-1-pink",
@@ -57,7 +67,13 @@ const PRODUCTS = [
   price: "4750 ₽",
   short: "Передние тормоза для Lexus GS300.",
   description: "Передние тормоза Lexus GS300.",
-  photos: ["images/IMG_0612 Крупный.jpeg"]
+  photos: ["images/auto/lexus-gs300-front-brakes/IMG_8670 Крупный.jpeg"
+          ,"images/auto/lexus-gs300-front-brakes/IMG_8671 Крупный.jpeg"
+          ,"images/auto/lexus-gs300-front-brakes/IMG_8672 Крупный.jpeg"
+          ,"images/auto/lexus-gs300-front-brakes/IMG_8673 Крупный.jpeg"
+          ,"images/auto/lexus-gs300-front-brakes/IMG_8674 Крупный.jpeg"
+          ,"images/auto/lexus-gs300-front-brakes/IMG_8675 Крупный.jpeg"
+          ]
   },
   {
   id: "rayban-smart-glasses",
@@ -83,7 +99,8 @@ const PRODUCTS = [
           ,"images/auto/lexus-gs300-washer-tank/IMG_0372 Крупный.jpeg"
           ,"images/auto/lexus-gs300-washer-tank/IMG_0373 Крупный.jpeg"
           ,"images/auto/lexus-gs300-washer-tank/IMG_0374 Крупный.jpeg"
-          ,"images/auto/lexus-gs300-washer-tank/IMG_0375 Крупный.jpeg"]
+          ,"images/auto/lexus-gs300-washer-tank/IMG_0375 Крупный.jpeg"
+        ]
   },
   {
   id: "hdmi-cable",
@@ -182,7 +199,13 @@ const PRODUCTS = [
   price: "441 ₽",
   short: "Блок управления зеркалами Lexus GS300 на запчасти.",
   description: "Блок управления зеркалами Lexus GS300 на запчасти.",
-  photos: ["images/IMG_0612 Крупный.jpeg"]
+  photos: ["images/auto/lexus-gs300-mirror-control/IMG_0156 Крупный.jpeg"
+          ,"images/auto/lexus-gs300-mirror-control/IMG_0157 Крупный.jpeg"
+          ,"images/auto/lexus-gs300-mirror-control/IMG_0158 Крупный.jpeg"
+          ,"images/auto/lexus-gs300-mirror-control/IMG_0159 Крупный.jpeg"
+          ,"images/auto/lexus-gs300-mirror-control/IMG_0160 Крупный.jpeg"
+          ,"images/auto/lexus-gs300-mirror-control/IMG_0161 Крупный.jpeg"
+        ]
   },
   {
   id: "lexus-gs-grs190-transmission",
@@ -191,7 +214,15 @@ const PRODUCTS = [
   price: "14250 ₽",
   short: "АКПП 4WD Lexus GS GRS190 3GRFSE.",
   description: "АКПП 4WD Lexus GS GRS190 3GRFSE.",
-  photos: ["images/IMG_0612 Крупный.jpeg"]
+  photos: ["images/auto/lexus-gs-grs190-transmission/IMG_8594.jpg"
+          ,"images/auto/lexus-gs-grs190-transmission/IMG_8134 Крупный.jpeg"
+          ,"images/auto/lexus-gs-grs190-transmission/IMG_8135 Крупный.jpeg"
+          ,"images/auto/lexus-gs-grs190-transmission/IMG_8136 Крупный.jpeg"
+          ,"images/auto/lexus-gs-grs190-transmission/IMG_8137 Крупный.jpeg"
+          ,"images/auto/lexus-gs-grs190-transmission/IMG_8138 Крупный.jpeg"
+          ,"images/auto/lexus-gs-grs190-transmission/IMG_8139 Крупный.jpeg"
+          ,"images/auto/lexus-gs-grs190-transmission/IMG_8140 Крупный.jpeg"
+        ]
   },
   {
   id: "redmi-monitor",
