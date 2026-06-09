@@ -85,13 +85,10 @@ const PRODUCTS = [
   photos: ["images/tech/rayban/IMG_0401 Крупный.jpeg"
           ,"images/tech/rayban/IMG_0402 Крупный.jpeg"
           ,"images/tech/rayban/IMG_0403 Крупный.jpeg"
-          ,"images/tech/rayban/IMG_0404 Крупный.jpeg"
-          ,"images/tech/rayban/IMG_0405 Крупный.jpeg"
           ,"images/tech/rayban/IMG_0406 Крупный.jpeg"
           ,"images/tech/rayban/IMG_0407 Крупный.jpeg"
           ,"images/tech/rayban/IMG_0408 Крупный.jpeg"
           ,"images/tech/rayban/IMG_0409 Крупный.jpeg"
-          ,"images/tech/rayban/IMG_0410 Крупный.jpeg"
           ,"images/tech/rayban/IMG_0411 Крупный.jpeg"
           ]
   },
@@ -198,7 +195,7 @@ const PRODUCTS = [
   description: "Вентилятор напольный Stingray.",
   photos: ["images/tech/fan/IMG_0171.jpg"
           ,"images/tech/fan/IMG_0172.jpg"
-          ,"images/tech/fan/IMG_0173.jpg"
+          ,"images/tech/fan/IMG_0173.jpeg"
           ]
   },
   {
