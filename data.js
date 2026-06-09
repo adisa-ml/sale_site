@@ -57,7 +57,7 @@ const PRODUCTS = [
   title: "Свитшот Napapijri размер XS",
   price: "2472 ₽",
   short: "Свитшот Napapijri, размер XS.",
-  description: "Свитшот Napapijri размер XS.",
+  description: "Свитшот Napapijri размер XS оверсайз",
   photos: ["images/IMG_0612 Крупный.jpeg"]
   },
   {
@@ -81,7 +81,17 @@ const PRODUCTS = [
   title: "Умные очки Ray-Ban фотохромные Wayfarer",
   price: "34425 ₽",
   short: "Умные очки Ray-Ban Wayfarer.",
-  description: "Умные фотохромные очки Ray-Ban Wayfarer.",
+  description: ["Умные очки Ray-Ban Wayfarer в классическом дизайне Wayfarer. Оснащены фотохромными линзами Clear/Graphite Green - прозрачные в помещении и затемняются на солнце, что делает их удобными для повседневного использования."
+          ,"Размер: 50-22-150"
+          ,"• Цвет оправы: Matte Black (матовый черный)"
+          ,"• Линзы: Transitions Clear/Graphite Green"
+          ,"(фотохромные)"
+          ,"• Встроенная камера для фото и видео от первого лица"
+          ,"• Встроенные динамики и микрофоны"
+          ,"• Прослушивание музыки и звонки без наушников"
+          ,"• Подключение к смартфону через приложение"
+          ,"• Зарядка и хранение в фирменном зарядном кейсе"
+          ],
   photos: ["images/tech/rayban/IMG_0401 Крупный.jpeg"
           ,"images/tech/rayban/IMG_0402 Крупный.jpeg"
           ,"images/tech/rayban/IMG_0403 Крупный.jpeg"
@@ -387,7 +397,6 @@ const PRODUCTS = [
   short: "MacBook Pro 15 Retina Touch Bar 2016.",
   description: "Apple MacBook Pro 15 Retina Touch Bar, 2016 год.",
   photos: ["images/tech/macbook/IMG_0753 Крупный.jpeg"
-          ,"images/tech/macbook/IMG_0754 Крупный.jpeg"
           ,"images/tech/macbook/IMG_0755 Крупный.jpeg"
           ,"images/tech/macbook/IMG_0756 Крупный.jpeg"
           ,"images/tech/macbook/IMG_0757 Крупный.jpeg"
