@@ -40,7 +40,12 @@ const PRODUCTS = [
   price: "5000 ₽",
   short: "Кроссовки Air Jordan 1 Retro High OG.",
   description: "Кроссовки Air Jordan 1 Retro High OG. Детали и дополнительные фото можно получить в Telegram.",
-  photos: ["images/IMG_0612 Крупный.jpeg"]
+  photos: ["images/clothes/air_jordan/IMG_0429 Крупный.jpeg"
+          ,"images/clothes/air_jordan/IMG_0430 Крупный.jpeg"
+          ,"images/clothes/air_jordan/IMG_0431 Крупный.jpeg"
+          ,"images/clothes/air_jordan/IMG_0432 Крупный.jpeg"
+          ,"images/clothes/air_jordan/IMG_0435 Крупный.jpeg"
+          ]
   },
   {
   id: "lime-sweatshirt",
@@ -58,7 +63,12 @@ const PRODUCTS = [
   price: "2472 ₽",
   short: "Свитшот Napapijri, размер XS.",
   description: "Свитшот Napapijri размер XS оверсайз",
-  photos: ["images/IMG_0612 Крупный.jpeg"]
+  photos: ["images/clothes/napapijri/IMG_0413 Крупный.jpeg"
+          ,"images/clothes/napapijri/IMG_0414 Крупный.jpeg"
+          ,"images/clothes/napapijri/IMG_0415 Крупный.jpeg"
+          ,"images/clothes/napapijri/IMG_0417 Крупный.jpeg"
+          ,"images/clothes/napapijri/IMG_0419 Крупный.jpeg"
+          ]
   },
   {
   id: "lexus-gs300-front-brakes",
@@ -167,7 +177,11 @@ const PRODUCTS = [
   price: "1164 ₽",
   short: "Розовый худи Minimo, оверсайз.",
   description: "Розовый худи Minimo оверсайз.",
-  photos: ["images/IMG_0612 Крупный.jpeg"]
+  photos: ["iimages/clothes/minimo/IMG_0279 Крупный.jpeg"
+          ,"iimages/clothes/minimo/IMG_0280 Крупный.jpeg"
+          ,"iimages/clothes/minimo/IMG_0281 Крупный.jpeg"
+          ,"iimages/clothes/minimo/IMG_0282 Крупный.jpeg"
+          ]
   },
   {
   id: "all-we-need-leather-jacket",
@@ -176,7 +190,16 @@ const PRODUCTS = [
   price: "5500 ₽",
   short: "Косуха All We Need.",
   description: "Косуха All We Need.",
-  photos: ["images/IMG_0612 Крупный.jpeg"]
+  photos: ["images/clothes/all_we_need/IMG_0219 Крупный.jpeg"
+    ,"images/clothes/all_we_need/IMG_0219 Крупный.jpeg"
+    ,"images/clothes/all_we_need/IMG_0220 Крупный.jpeg"
+    ,"images/clothes/all_we_need/IMG_0221 Крупный.jpeg"
+    ,"images/clothes/all_we_need/IMG_0222 Крупный.jpeg"
+    ,"images/clothes/all_we_need/IMG_0223 Крупный.jpeg"
+    ,"images/clothes/all_we_need/IMG_0224 Крупный.jpeg"
+    ,"images/clothes/all_we_need/IMG_0225 Крупный.jpeg"
+    ,"images/clothes/all_we_need/IMG_0226 Крупный.jpeg"
+          ]
   },
   {
   id: "rivacase-laptop-bag",
@@ -281,7 +304,11 @@ const PRODUCTS = [
   price: "300 ₽",
   short: "Кожаные брюки O'Stin, размер 40-42.",
   description: "Женские кожаные брюки O'Stin. Размер 40-42.",
-  photos: ["images/demo.jpg"]
+  photos: ["images/clothes/ostin1-leather-pants/IMG_0596 Крупный.jpeg"
+          ,"images/clothes/ostin1-leather-pants/IMG_0597 Крупный.jpeg"
+          ,"images/clothes/ostin1-leather-pants/IMG_0598 Крупный.jpeg"
+          ,"images/clothes/ostin1-leather-pants/IMG_0599 Крупный.jpeg"
+          ]
   },
   {
   id: "ostin2-leather-pants",
@@ -290,7 +317,7 @@ const PRODUCTS = [
   price: "300 ₽",
   short: "Кожаные кюлоты O'Stin, размер 40-42.",
   description: "Женские кюлоты O'Stin. Размер 40-42.",
-  photos: ["images/demo.jpg"]
+  photos: ["images/clothes/ostin2-leather-pants/IMG_0589 Крупный.jpeg"]
   },
 
   {
@@ -310,7 +337,11 @@ const PRODUCTS = [
   price: "1098 ₽",
   short: "Новое платье Lime с разрезом, размер XS.",
   description: "Новое платье Lime с разрезом, размер XS.",
-  photos: ["images/demo.jpg"]
+  photos: ["images/clothes/lime-slit-dress-xs/IMG_0641 Крупный.jpeg"
+          ,"images/clothes/lime-slit-dress-xs/IMG_0642 Крупный.jpeg"
+          ,"images/clothes/lime-slit-dress-xs/IMG_0643 Крупный.jpeg"
+          ,"images/clothes/lime-slit-dress-xs/IMG_0644 Крупный.jpeg"
+          ]
   },
 
   {
@@ -320,7 +351,13 @@ const PRODUCTS = [
   price: "329 ₽",
   short: "Топы Mango и Zarina.",
   description: "Женские топы Mango и Zarina.",
-  photos: ["images/demo.jpg"]
+  photos: ["images/clothes/mango-zarina-tops/IMG_0623 Крупный.jpeg"
+          ,"images/clothes/mango-zarina-tops/IMG_0624 Крупный.jpeg"
+          ,"images/clothes/mango-zarina-tops/IMG_0625 Крупный.jpeg"
+          ,"images/clothes/mango-zarina-tops/IMG_0626 Крупный.jpeg"
+          ,"images/clothes/mango-zarina-tops/IMG_0637.jpg"
+          ,"images/clothes/mango-zarina-tops/IMG_0638.jpg"
+          ]
   },
 
   {
@@ -330,7 +367,10 @@ const PRODUCTS = [
   price: "384 ₽ / 1шт",
   short: "Трикотажная юбка Zarina.",
   description: "Трикотажная юбка Zarina размер XS-S.",
-  photos: ["images/demo.jpg"]
+  photos: ["images/clothes/lime_sweatshirt_ski/IMG_0420 Крупный.jpeg"
+          ,"images/clothes/lime_sweatshirt_ski/IMG_0421 Крупный.jpeg"
+          ,"images/clothes/lime_sweatshirt_ski/IMG_0422 Крупный.jpeg"
+          ]
   },
 
   {
@@ -360,7 +400,11 @@ const PRODUCTS = [
   price: "769 ₽",
   short: "Укороченный новый пиджак MAAG.",
   description: "Новый пиджак MAAG укороченный, размер XS.",
-  photos: ["images/demo.jpg"]
+  photos: ["images/clothes/lime_blazer/IMG_0510 Крупный.jpeg"
+          ,"images/clothes/lime_blazer/IMG_0511 Крупный.jpeg"
+          ,"images/clothes/lime_blazer/IMG_0512 Крупный.jpeg"
+          ,"images/clothes/lime_blazer/IMG_0513 Крупный.jpeg"
+          ]
   },
 
   {
@@ -471,7 +515,14 @@ const PRODUCTS = [
   price: "879 ₽",
   short: "Платье Lime со сборкой, размер S.",
   description: "Женское платье Lime со сборкой, размер S.",
-  photos: ["images/demo.jpg"]
+  photos: ["images/clothes/lime-dress-gathered-s_сборка/IMG_0573 Крупный.jpeg"
+          ,"images/clothes/lime-dress-gathered-s_сборка/IMG_0575 Крупный.jpeg"
+          ,"images/clothes/lime-dress-gathered-s_сборка/IMG_0576 Крупный.jpeg"
+          ,"images/clothes/lime-dress-gathered-s_сборка/IMG_0577 Крупный.jpeg"
+          ,"images/clothes/lime-dress-gathered-s_сборка/IMG_0578 Крупный.jpeg"
+          ,"images/clothes/lime-dress-gathered-s_сборка/IMG_0579 Крупный.jpeg"
+          ,"images/clothes/lime-dress-gathered-s_сборка/IMG_0580 Крупный.jpeg"
+          ]
   },
 
   {
@@ -481,7 +532,12 @@ const PRODUCTS = [
   price: "887 ₽",
   short: "Демисезонная куртка Befree.",
   description: "Куртка Befree размер XS.",
-  photos: ["images/demo.jpg"]
+  photos: ["images/clothes/befree_red_jacket/IMG_0568 Крупный.jpeg"
+    ,"images/clothes/befree_red_jacket/IMG_0569 Крупный.jpeg"
+    ,"images/clothes/befree_red_jacket/IMG_0570 Крупный.jpeg"
+    ,"images/clothes/befree_red_jacket/IMG_0571 Крупный.jpeg"
+    ,"images/clothes/befree_red_jacket/IMG_0572 Крупный.jpeg"
+          ]
   },
 
   {
@@ -491,7 +547,14 @@ const PRODUCTS = [
   price: "800 ₽",
   short: "Красное платье Lime размер XS.",
   description: "Платье Lime размер XS.",
-  photos: ["images/demo.jpg"]
+  photos: ["images/clothes/lime-red-dress-xs_платье/IMG_0556 Крупный.jpeg"
+          ,"images/clothes/lime-red-dress-xs_платье/IMG_0558 Крупный.jpeg"
+          ,"images/clothes/lime-red-dress-xs_платье/IMG_0559 Крупный.jpeg"
+          ,"images/clothes/lime-red-dress-xs_платье/IMG_0561 Крупный.jpeg"
+          ,"images/clothes/lime-red-dress-xs_платье/IMG_0562 Крупный.jpeg"
+          ,"images/clothes/lime-red-dress-xs_платье/IMG_0563 Крупный.jpeg"
+          ,"images/clothes/lime-red-dress-xs_платье/IMG_0564 Крупный.jpeg"
+          ]     
   },
 
   {
@@ -501,7 +564,15 @@ const PRODUCTS = [
   price: "5868 ₽",
   short: "Брючный костюм Charmstore.",
   description: "Брючный костюм Charmstore размер XS/S.",
-  photos: ["images/demo.jpg"]
+  photos: ["images/clothes/charmstore-pantsuit-xs-s/IMG_0444 Крупный.jpeg"
+          ,"images/clothes/charmstore-pantsuit-xs-s/IMG_0446 Крупный.jpeg"
+          ,"images/clothes/charmstore-pantsuit-xs-s/IMG_0461 Крупный.jpeg"
+          ,"images/clothes/charmstore-pantsuit-xs-s/IMG_0514 Крупный.jpeg"
+          ,"images/clothes/charmstore-pantsuit-xs-s/IMG_0515 Крупный.jpeg"
+          ,"images/clothes/charmstore-pantsuit-xs-s/IMG_0516 Крупный.jpeg"
+          ,"images/clothes/charmstore-pantsuit-xs-s/IMG_0517 Крупный.jpeg"
+          ,"images/clothes/charmstore-pantsuit-xs-s/IMG_0518 Крупный.jpeg"
+          ]
   },
 
   {
@@ -511,7 +582,15 @@ const PRODUCTS = [
   price: "1760 ₽",
   short: "Брюки-палаццо Lime.",
   description: "Брюки-палаццо Lime размер XS.",
-  photos: ["images/demo.jpg"]
+  photos: ["images/clothes/lime-palazzo-pants-xs_кожан/IMG_0494 Крупный.jpeg"
+          ,"images/clothes/lime-palazzo-pants-xs_кожан/IMG_0495 Крупный.jpeg"
+          ,"images/clothes/lime-palazzo-pants-xs_кожан/IMG_0497 Крупный.jpeg"
+          ,"images/clothes/lime-palazzo-pants-xs_кожан/IMG_0498 Крупный.jpeg"
+          ,"images/clothes/lime-palazzo-pants-xs_кожан/IMG_0499 Крупный.jpeg"
+          ,"images/clothes/lime-palazzo-pants-xs_кожан/IMG_0500 Крупный.jpeg"
+          ,"images/clothes/lime-palazzo-pants-xs_кожан/IMG_0501 Крупный.jpeg"
+          ,"images/clothes/lime-palazzo-pants-xs_кожан/IMG_0502 Крупный.jpeg"
+          ]
   },
 
   {
