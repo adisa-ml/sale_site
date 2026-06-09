@@ -82,7 +82,18 @@ const PRODUCTS = [
   price: "34425 ₽",
   short: "Умные очки Ray-Ban Wayfarer.",
   description: "Умные фотохромные очки Ray-Ban Wayfarer.",
-  photos: ["images/IMG_0612 Крупный.jpeg"]
+  photos: ["images/tech/rayban/IMG_0401 Крупный.jpeg"
+          ,"images/tech/rayban/IMG_0402 Крупный.jpeg"
+          ,"images/tech/rayban/IMG_0403 Крупный.jpeg"
+          ,"images/tech/rayban/IMG_0404 Крупный.jpeg"
+          ,"images/tech/rayban/IMG_0405 Крупный.jpeg"
+          ,"images/tech/rayban/IMG_0406 Крупный.jpeg"
+          ,"images/tech/rayban/IMG_0407 Крупный.jpeg"
+          ,"images/tech/rayban/IMG_0408 Крупный.jpeg"
+          ,"images/tech/rayban/IMG_0409 Крупный.jpeg"
+          ,"images/tech/rayban/IMG_0410 Крупный.jpeg"
+          ,"images/tech/rayban/IMG_0411 Крупный.jpeg"
+          ]
   },
   {
   id: "lexus-gs300-washer-tank",
@@ -109,7 +120,7 @@ const PRODUCTS = [
   price: "439 ₽",
   short: "Провод HDMI.",
   description: "Провод HDMI 2.5 и 1.7.",
-  photos: ["images/IMG_0612 Крупный.jpeg"]
+  photos: ["images/tech/hdmi/MG_0316 Крупный.jpeg"]
   },
   {
   id: "usb-type-c-cables",
@@ -118,7 +129,7 @@ const PRODUCTS = [
   price: "133 ₽",
   short: "Кабель USB Type-C, 4 шт.",
   description: "Кабель USB Type-C, 4 штуки в наличии.",
-  photos: ["images/IMG_0612 Крупный.jpeg"]
+  photos: ["images/tech/usb_type-c/IMG_0313 Крупный.jpeg"]
   },
   {
   id: "apple-lightning-jack-adapter",
@@ -127,7 +138,9 @@ const PRODUCTS = [
   price: "300 ₽",
   short: "Переходник Apple Lightning на 3.5 jack.",
   description: "Переходник Apple Lightning 3.5 jack.",
-  photos: ["images/IMG_0612 Крупный.jpeg"]
+  photos: ["images/tech/jack/IMG_0315 Крупный.jpeg"
+          ,"images/tech/jack/IMG_0318 Крупный.jpeg"
+          ]
   },
   {
   id: "logitech-wireless-mouse",
@@ -136,7 +149,9 @@ const PRODUCTS = [
   price: "384 ₽",
   short: "Беспроводная мышь Logitech.",
   description: "Беспроводная мышь Logitech.",
-  photos: ["images/IMG_0612 Крупный.jpeg"]
+  photos: ["images/tech/mouse/IMG_0302 Крупный.jpeg"
+          ,"images/tech/mouse/IMG_0303 Крупный.jpeg"
+          ]
   },
   {
   id: "minimo-pink-hoodie",
@@ -181,7 +196,10 @@ const PRODUCTS = [
   price: "1777 ₽",
   short: "Напольный вентилятор Stingray.",
   description: "Вентилятор напольный Stingray.",
-  photos: ["images/IMG_0612 Крупный.jpeg"]
+  photos: ["images/tech/fan/IMG_0171.jpg"
+          ,"images/tech/fan/IMG_0172.jpg"
+          ,"images/tech/fan/IMG_0173.jpg"
+          ]
   },
   {
   id: "status-for-life-heater",
@@ -190,7 +208,7 @@ const PRODUCTS = [
   price: "2666 ₽",
   short: "Электрический обогреватель Status for Life.",
   description: "Обогреватель электрический Status for Life.",
-  photos: ["images/IMG_0612 Крупный.jpeg"]
+  photos: ["images/tech/heater/IMG_0150 Крупный.jpeg"]
   },
   {
   id: "lexus-gs300-mirror-control",
@@ -231,7 +249,10 @@ const PRODUCTS = [
   price: "6375 ₽",
   short: "Монитор Redmi.",
   description: "Монитор Redmi.",
-  photos: ["images/IMG_0612 Крупный.jpeg"]
+  photos: ["images/tech/screen/IMG_0098 Крупный.jpeg"
+          ,"images/tech/screen/IMG_0099 Крупный.jpeg"
+          ,"images/tech/screen/IMG_0100 Крупный.jpeg"
+        ]
   },
   {
   id: "zara-leather-pants",
@@ -368,7 +389,14 @@ const PRODUCTS = [
   price: "38000 ₽",
   short: "MacBook Pro 15 Retina Touch Bar 2016.",
   description: "Apple MacBook Pro 15 Retina Touch Bar, 2016 год.",
-  photos: ["images/demo.jpg"]
+  photos: ["images/tech/macbook/IMG_0753 Крупный.jpeg"
+          ,"images/tech/macbook/IMG_0754 Крупный.jpeg"
+          ,"images/tech/macbook/IMG_0755 Крупный.jpeg"
+          ,"images/tech/macbook/IMG_0756 Крупный.jpeg"
+          ,"images/tech/macbook/IMG_0757 Крупный.jpeg"
+          ,"images/tech/macbook/IMG_0758 Крупный.jpeg"
+          ,"images/tech/macbook/IMG_0759 Крупный.jpeg"
+          ]   
   },
 
   {
