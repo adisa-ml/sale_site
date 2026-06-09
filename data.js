@@ -120,7 +120,7 @@ const PRODUCTS = [
   price: "439 ₽",
   short: "Провод HDMI.",
   description: "Провод HDMI 2.5 и 1.7.",
-  photos: ["images/tech/hdmi/MG_0316 Крупный.jpeg"]
+  photos: ["images/tech/hdmi/IMG_0316 Крупный.jpeg"]
   },
   {
   id: "usb-type-c-cables",
