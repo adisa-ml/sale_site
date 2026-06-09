@@ -185,7 +185,11 @@ const PRODUCTS = [
   price: "500 ₽",
   short: "Сумка для ноутбука Rivacase 16”.",
   description: "Сумка для ноутбука Rivacase 16” или документов.",
-  photos: ["images/IMG_0612 Крупный.jpeg"]
+  photos: ["images/other/laptop_bag/IMG_0203 Малый Крупный.jpeg"
+          ,"images/other/laptop_bag/IMG_0204 Малый Крупный.jpeg"
+          ,"images/other/laptop_bag/IMG_0206 Малый Крупный.jpeg"
+          ,"images/other/laptop_bag/IMG_0208 Малый Крупный.jpeg"
+          ]
   },
   {
   id: "vest-2mood-grey",
@@ -422,7 +426,13 @@ const PRODUCTS = [
   price: "3000 ₽",
   short: "Взрослый самокат Oxelo.",
   description: "Самокат Oxelo для взрослых.",
-  photos: ["images/demo.jpg"]
+  photos: ["images/other/oxelo/IMG_0689 Крупный.jpeg"
+          ,"images/other/oxelo/IMG_0690 Крупный.jpeg"
+          ,"images/other/oxelo/IMG_0691 Крупный.jpeg"
+          ,"images/other/oxelo/IMG_0692 Крупный.jpeg"
+          ,"images/other/oxelo/IMG_0693 Крупный.jpeg"
+          ,"images/other/oxelo/IMG_0694 Крупный.jpeg"
+          ]
   },
 
   {
