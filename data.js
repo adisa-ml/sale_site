@@ -341,7 +341,16 @@ const PRODUCTS = [
   price: "1648 ₽",
   short: "Летнее платье Calista, размер 42.",
   description: "Легкое летнее платье Calista, размер 42.",
-  photos: ["images/demo.jpg"]
+  photos: ["images/clothes/calista/IMG_1368 Крупный.jpeg"
+          ,"images/clothes/calista/IMG_1369 Крупный.jpeg"
+          ,"images/clothes/calista/IMG_1370 Крупный.jpeg"
+          ,"images/clothes/calista/IMG_1371 Крупный.jpeg"
+          ,"images/clothes/calista/IMG_1372 Крупный.jpeg"  
+          ,"images/clothes/calista/IMG_1373 Крупный.jpeg"  
+          ,"images/clothes/calista/IMG_1375 Крупный.jpeg"  
+          ,"images/clothes/calista/IMG_1376 Крупный.jpeg"
+          ,"images/clothes/calista/IMG_1377 Крупный.jpeg"                    
+        ]
   },
 
   {
