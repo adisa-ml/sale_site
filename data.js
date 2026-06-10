@@ -11,16 +11,16 @@ const PRODUCTS = [
   title: "Шапка Calvin Klein",
   price: "1000 ₽",
   short: "Красная шапка Calvin Klein.",
-  description: "Красная шапка Calvin Klein. Состояние отличное. Детали можно уточнить в Telegram.",
+  description: "Красная шапка Calvin Klein. Состояние отличное. Окружность 53см. Детали можно уточнить в Telegram.",
   photos: ["images/clothes/calvin/IMG_0457 Крупный.jpeg"]
   },
   {
   id: "r18-wheels",
   category: "auto",
   title: "Колеса в сборе R18 летние",
-  price: "33999 ₽ за 4 шт.",
+  price: "32000 ₽ за 4 шт.",
   short: "Летние колеса R18 в сборе.",
-  description: "Летние колеса R18 в сборе, комплект 4 штуки.",
+  description: "Оригинальные японские колеса в сборе. Бренд Crimson культовая линейка Club Linea. Геометрия в порядке, без вмятин и сварки. Резина с хорошим запасом Yokohama 225/40/18",
   photos: ["images/auto/r18-wheels/FullSizeRender 9 Крупный.jpeg"
           ,"images/auto/r18-wheels/FullSizeRender 2 Крупный.jpeg"
           ,"images/auto/r18-wheels/FullSizeRender 3 Крупный.jpeg"
@@ -51,9 +51,9 @@ const PRODUCTS = [
   id: "lime-sweatshirt",
   category: "clothes",
   title: "Свитшот Lime размер S, оверсайз",
-  price: "2400 ₽",
+  price: "2000 ₽",
   short: "Свитшот Lime, размер S, оверсайз.",
-  description: "Свитшот Lime размер S, оверсайз.",
+  description: "Свитшот Lime в отличном состоянии, размер S, оверсайз.",
   photos: ["images/clothes/lime_sweatshirt_ski/IMG_0420 Крупный.jpeg"
           ,"images/clothes/lime_sweatshirt_ski/IMG_0421 Крупный.jpeg"
           ,"images/clothes/lime_sweatshirt_ski/IMG_0422 Крупный.jpeg"
@@ -63,9 +63,9 @@ const PRODUCTS = [
   id: "napapijri-sweatshirt-xs",
   category: "clothes",
   title: "Свитшот Napapijri размер XS",
-  price: "2472 ₽",
+  price: "2000 ₽",
   short: "Свитшот Napapijri, размер XS.",
-  description: "Свитшот Napapijri размер XS оверсайз",
+  description: "Свитшот Napapijri размер XS оверсайз в хорошем состоянии",
   photos: ["images/clothes/napapijri/IMG_0413 Крупный.jpeg"
           ,"images/clothes/napapijri/IMG_0414 Крупный.jpeg"
           ,"images/clothes/napapijri/IMG_0415 Крупный.jpeg"
@@ -77,9 +77,9 @@ const PRODUCTS = [
   id: "lexus-gs300-front-brakes",
   category: "auto",
   title: "Передние тормоза Lexus GS300",
-  price: "4750 ₽",
+  price: "5000 ₽",
   short: "Передние тормоза для Lexus GS300.",
-  description: "Передние тормоза Lexus GS300.",
+  description: "Передние тормоза Lexus GS300. Тормозные диски (ширина 32мм, перфорированные, как новые. Суппорта - скобы нужно обслужить. Тормозные колодки как новые",
   photos: ["images/auto/lexus-gs300-front-brakes/IMG_8670 Крупный.jpeg"
           ,"images/auto/lexus-gs300-front-brakes/IMG_8671 Крупный.jpeg"
           ,"images/auto/lexus-gs300-front-brakes/IMG_8672 Крупный.jpeg"
@@ -121,7 +121,7 @@ const PRODUCTS = [
   title: "Бачок омывателя Lexus GS300",
   price: "3000 ₽",
   short: "Бачок омывателя для Lexus GS300.",
-  description: "Бачок омывателя Lexus GS300.",
+  description: "Бачок омывателя Lexus GS300 оригинал, состояние хорошее, производитель toyota. все разъемы/датчики в порядке, переварено одно крепление.",
   photos: ["images/auto/lexus-gs300-washer-tank/IMG_0367 Крупный.jpeg"
           ,"images/auto/lexus-gs300-washer-tank/IMG_0368 Крупный.jpeg"
           ,"images/auto/lexus-gs300-washer-tank/IMG_0369 Крупный.jpeg"
@@ -139,7 +139,7 @@ const PRODUCTS = [
   title: "Провод HDMI 2.5 и 1.7",
   price: "439 ₽",
   short: "Провод HDMI.",
-  description: "Провод HDMI 2.5 и 1.7.",
+  description: "Провод HDMI 2.5м и 1.7м.",
   photos: ["images/tech/hdmi/IMG_0316 Крупный.jpeg"]
   },
   {
@@ -192,7 +192,7 @@ const PRODUCTS = [
   title: "Новая косуха All We Need",
   price: "5500 ₽",
   short: "Косуха All We Need.",
-  description: "Косуха All We Need.",
+  description: "Косуха All We Need новая.",
   photos: ["images/clothes/all_we_need/IMG_0219 Крупный.jpeg"
     ,"images/clothes/all_we_need/IMG_0219 Крупный.jpeg"
     ,"images/clothes/all_we_need/IMG_0220 Крупный.jpeg"
@@ -209,7 +209,7 @@ const PRODUCTS = [
   category: "other",
   title: "Сумка для ноутбука Rivacase 16” или документов",
   price: "500 ₽",
-  short: "Сумка для ноутбука Rivacase 16”.",
+  short: "Сумка для ноутбука или документов Rivacase 16”.",
   description: "Сумка для ноутбука Rivacase 16” или документов.",
   photos: ["images/other/laptop_bag/IMG_0203 Малый Крупный.jpeg"
           ,"images/other/laptop_bag/IMG_0204 Малый Крупный.jpeg"
@@ -223,7 +223,7 @@ const PRODUCTS = [
   title: "Жилетка серая 2MOOD размер М",
   price: "2500 ₽",
   short: "Жилетка 2MOOD",
-  description: "Жилетка 2MOOD в отличном состоянии.",
+  description: "Жилетка 2MOOD в отличном состоянии, носилась пару раз.",
   photos: ["images/clothes/vest-2mood-grey/IMG_0727 Малый.jpeg"
           ,"images/clothes/vest-2mood-grey/IMG_0728 Малый.jpeg"
           ,"images/clothes/vest-2mood-grey/IMG_0729 Малый.jpeg"
@@ -260,7 +260,7 @@ const PRODUCTS = [
   title: "Блок управления зеркалами Lexus GS300",
   price: "441 ₽",
   short: "Блок управления зеркалами Lexus GS300 на запчасти.",
-  description: "Блок управления зеркалами Lexus GS300 на запчасти.",
+  description: "Блок управления зеркалами Lexus GS300 на запчасти, тк не работает крючок защелкивания.",
   photos: ["images/auto/lexus-gs300-mirror-control/IMG_0156 Крупный.jpeg"
           ,"images/auto/lexus-gs300-mirror-control/IMG_0157 Крупный.jpeg"
           ,"images/auto/lexus-gs300-mirror-control/IMG_0158 Крупный.jpeg"
@@ -275,7 +275,7 @@ const PRODUCTS = [
   title: "АКПП 4WD Lexus GS GRS190 3GRFSE",
   price: "14250 ₽",
   short: "АКПП 4WD Lexus GS GRS190 3GRFSE.",
-  description: "АКПП 4WD Lexus GS GRS190 3GRFSE.",
+  description: "АКПП 4WD Lexus GS GRS190 3GRFSE. Нужно обслужить бублик.",
   photos: ["images/auto/lexus-gs-grs190-transmission/IMG_8594.jpg"
           ,"images/auto/lexus-gs-grs190-transmission/IMG_8134 Крупный.jpeg"
           ,"images/auto/lexus-gs-grs190-transmission/IMG_8135 Крупный.jpeg"
@@ -371,7 +371,7 @@ const PRODUCTS = [
   id: "mango-zarina-tops",
   category: "clothes",
   title: "Топ Mango и Zarina",
-  price: "329 ₽",
+  price: "300 ₽",
   short: "Топы Mango и Zarina.",
   description: "Женские топы Mango и Zarina.",
   photos: ["images/clothes/mango-zarina-tops/IMG_0623 Крупный.jpeg"
@@ -389,7 +389,7 @@ const PRODUCTS = [
   title: "Юбка трикотажная Zarina/Befree/Noname размер XS-S",
   price: "384 ₽ / 1шт",
   short: "Трикотажная юбка Zarina.",
-  description: "Трикотажная юбка Zarina размер XS-S.",
+  description: "Трикотажная юбка Zarina/Befree/Noname размер XS-S",
   photos: ["images/clothes/lime_sweatshirt_ski/IMG_0420 Крупный.jpeg"
           ,"images/clothes/lime_sweatshirt_ski/IMG_0421 Крупный.jpeg"
           ,"images/clothes/lime_sweatshirt_ski/IMG_0422 Крупный.jpeg"
@@ -412,7 +412,7 @@ const PRODUCTS = [
   title: "Рубашки женские Uniqlo и Mango",
   price: "329 ₽ / 1шт",
   short: "Женские рубашки Uniqlo и Mango.",
-  description: "Женские рубашки убашек Uniqlo и Mango.",
+  description: "Женские рубашки Uniqlo и Mango. ",
   photos: ["images/clothes/uniqlo-mango-shirts_рубаш/IMG_1400 Крупный.jpeg"
           ,"images/clothes/uniqlo-mango-shirts_рубаш/IMG_1401 Крупный.jpeg"
           ,"images/clothes/uniqlo-mango-shirts_рубаш/IMG_1402 Крупный.jpeg"
@@ -502,9 +502,9 @@ const PRODUCTS = [
   id: "zaporozhets-anorak-l",
   category: "clothes",
   title: "Анорак Запорожец размер L",
-  price: "4000 ₽",
+  price: "2500 ₽",
   short: "Анорак Запорожец, размер L.",
-  description: "Анорак Запорожец размер L.",
+  description: "Анорак Запорожец размер L в идеальном состоянии, теплый, с большим капюшоном",
   photos: ["images/clothes/zaporozhets-anorak-l/IMG_0743 Крупный.jpeg"
           ,"images/clothes/zaporozhets-anorak-l/IMG_0744 Крупный.jpeg"
           ,"images/clothes/zaporozhets-anorak-l/IMG_0745 Крупный.jpeg"
@@ -523,7 +523,7 @@ const PRODUCTS = [
   title: "Самокат Oxelo взрослый",
   price: "3000 ₽",
   short: "Взрослый самокат Oxelo.",
-  description: "Самокат Oxelo для взрослых.",
+  description: "Самокат Oxelo для взрослых. Стоит в гараже без дела, использовался пару раз",
   photos: ["images/other/oxelo/IMG_0689 Крупный.jpeg"
           ,"images/other/oxelo/IMG_0690 Крупный.jpeg"
           ,"images/other/oxelo/IMG_0691 Крупный.jpeg"
@@ -596,9 +596,9 @@ const PRODUCTS = [
   id: "befree-red-jacket-xs",
   category: "clothes",
   title: "Куртка демисезонная Befree размер XS",
-  price: "887 ₽",
+  price: "800 ₽",
   short: "Демисезонная куртка Befree.",
-  description: "Куртка Befree размер XS.",
+  description: "Куртка Befree размер XS. Теплая, приталенная, стильная.",
   photos: ["images/clothes/befree_red_jacket/IMG_0568 Крупный.jpeg"
     ,"images/clothes/befree_red_jacket/IMG_0569 Крупный.jpeg"
     ,"images/clothes/befree_red_jacket/IMG_0570 Крупный.jpeg"
@@ -628,9 +628,9 @@ const PRODUCTS = [
   id: "charmstore-pantsuit-xs-s",
   category: "clothes",
   title: "Брючный костюм Charmstore XS/S",
-  price: "5868 ₽",
+  price: "5500 ₽",
   short: "Брючный костюм Charmstore.",
-  description: "Брючный костюм Charmstore размер XS/S.",
+  description: "Брючный костюм Charmstore размер XS/S. Замеры на фото, нет пуговки на брюках. В остальном как новый!",
   photos: ["images/clothes/charmstore-pantsuit-xs-s/IMG_0444 Крупный.jpeg"
           ,"images/clothes/charmstore-pantsuit-xs-s/IMG_0446 Крупный.jpeg"
           ,"images/clothes/charmstore-pantsuit-xs-s/IMG_0461 Крупный.jpeg"
@@ -686,7 +686,7 @@ const PRODUCTS = [
   title: "Блейзер-пиджак Lime размер L",
   price: "4157 ₽",
   short: "Блейзер Lime размер L",
-  description: "Пиджак-блейзер Lime размер L.",
+  description: "Пиджак-блейзер Lime размер L. Носился два раза. ",
   photos: ["images/clothes/lime_blazer/IMG_0510 Крупный.jpeg"
           ,"images/clothes/lime_blazer/IMG_0511 Крупный.jpeg"
           ,"images/clothes/lime_blazer/IMG_0512 Крупный.jpeg"
