@@ -437,7 +437,13 @@ const PRODUCTS = [
   price: "730 ₽",
   short: "Полупрозрачная блузка Zara.",
   description: "Женская полупрозрачная блузка Zara.",
-  photos: ["images/demo.jpg"]
+  photos: ["images/clothes/zara-transparent-blouse_полупрозр/IMG_1378 Крупный.jpeg"
+          ,"images/clothes/zara-transparent-blouse_полупрозр/IMG_1379 Крупный.jpeg"
+          ,"images/clothes/zara-transparent-blouse_полупрозр/IMG_1380 Крупный.jpeg"
+          ,"images/clothes/zara-transparent-blouse_полупрозр/IMG_1381 Крупный.jpeg"
+          ,"images/clothes/zara-transparent-blouse_полупрозр/IMG_1382 Крупный.jpeg"
+          ,"images/clothes/zara-transparent-blouse_полупрозр/IMG_1383 Крупный.jpeg"
+          ]
   },
 
   {
