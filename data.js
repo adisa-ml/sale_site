@@ -413,7 +413,17 @@ const PRODUCTS = [
   price: "329 ₽ / 1шт",
   short: "Женские рубашки Uniqlo и Mango.",
   description: "Женские рубашки убашек Uniqlo и Mango.",
-  photos: ["images/demo.jpg"]
+  photos: ["images/clothes/uniqlo-mango-shirts_рубаш/IMG_1400 Крупный.jpeg"
+          ,"images/clothes/uniqlo-mango-shirts_рубаш/IMG_1401 Крупный.jpeg"
+          ,"images/clothes/uniqlo-mango-shirts_рубаш/IMG_1402 Крупный.jpeg"
+          ,"images/clothes/uniqlo-mango-shirts_рубаш/IMG_1403 Крупный.jpeg"
+          ,"images/clothes/uniqlo-mango-shirts_рубаш/IMG_1404 Крупный.jpeg"
+          ,"images/clothes/uniqlo-mango-shirts_рубаш/IMG_1405 Крупный.jpeg"
+          ,"images/clothes/uniqlo-mango-shirts_рубаш/IMG_1406 Крупный.jpeg"
+          ,"images/clothes/uniqlo-mango-shirts_рубаш/IMG_1407 Крупный.jpeg"
+          ,"images/clothes/uniqlo-mango-shirts_рубаш/IMG_1408 Крупный.jpeg"
+          ,"images/clothes/uniqlo-mango-shirts_рубаш/IMG_1409 Крупный.jpeg"
+          ]
   },
 
   {
