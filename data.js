@@ -11,8 +11,8 @@ const PRODUCTS = [
   title: "Шапка Calvin Klein",
   price: "1000 ₽",
   short: "Красная шапка Calvin Klein.",
-  description: "Красная шапка Calvin Klein. Состояние и детали можно уточнить в Telegram.",
-  photos: ["images/IMG_0612 Крупный.jpeg"]
+  description: "Красная шапка Calvin Klein. Состояние отличное. Детали можно уточнить в Telegram.",
+  photos: ["images/clothes/calvin/IMG_0457 Крупный.jpeg"]
   },
   {
   id: "r18-wheels",
@@ -403,7 +403,7 @@ const PRODUCTS = [
   price: "274 ₽",
   short: "Новые легинсы в рубчик, размер M.",
   description: "Женские легинсы в рубчик размер M.",
-  photos: ["images/demo.jpg"]
+  photos: ["images/clothes/leggins/IMG_1410 Крупный.jpeg"]
   },
 
   {
@@ -423,10 +423,11 @@ const PRODUCTS = [
   price: "769 ₽",
   short: "Укороченный новый пиджак MAAG.",
   description: "Новый пиджак MAAG укороченный, размер XS.",
-  photos: ["images/clothes/lime_blazer/IMG_0510 Крупный.jpeg"
-          ,"images/clothes/lime_blazer/IMG_0511 Крупный.jpeg"
-          ,"images/clothes/lime_blazer/IMG_0512 Крупный.jpeg"
-          ,"images/clothes/lime_blazer/IMG_0513 Крупный.jpeg"
+  photos: ["images/clothes/maag_blazer/IMG_1395 Крупный.jpeg"
+          ,"images/clothes/maag_blazer/IMG_1396 Крупный.jpeg"
+          ,"images/clothes/maag_blazer/IMG_1397 Крупный.jpeg"
+          ,"images/clothes/maag_blazer/IMG_1398 Крупный.jpeg"
+          ,"images/clothes/maag_blazer/IMG_1399 Крупный.jpeg"
           ]
   },
 
@@ -556,7 +557,12 @@ const PRODUCTS = [
   price: "1000 ₽",
   short: "Хлопковое платье Lime размер XS.",
   description: "Платье Lime из хлопка, размер XS.",
-  photos: ["images/demo.jpg"]
+  photos: ["images/clothes/lime_dress_xs_gray/IMG_0632 Крупный.jpeg"
+          ,"images/clothes/lime_dress_xs_gray/IMG_0633 Крупный.jpeg"
+          ,"images/clothes/lime_dress_xs_gray/IMG_0634 Крупный.jpeg" 
+          ,"images/clothes/lime_dress_xs_gray/IMG_0635.jpeg" 
+          ,"images/clothes/lime_dress_xs_gray/IMG_0636.jpeg" 
+          ]
   },
 
   {
