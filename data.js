@@ -424,7 +424,10 @@ const PRODUCTS = [
   price: "350 ₽",
   short: "Купальник River Island размер S.",
   description: "Купальник River Island, размер S.",
-  photos: ["images/demo.jpg"]
+  photos: ["images/clothes/river-island-swimsuit/IMG_0620 Крупный.jpeg"
+          ,"images/clothes/river-island-swimsuit/IMG_0621 Крупный.jpeg"
+          ,"images/clothes/river-island-swimsuit/IMG_0622 Крупный.jpeg"
+          ]
   },
 
   {
