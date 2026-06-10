@@ -54,7 +54,10 @@ const PRODUCTS = [
   price: "2400 ₽",
   short: "Свитшот Lime, размер S, оверсайз.",
   description: "Свитшот Lime размер S, оверсайз.",
-  photos: ["images/IMG_0612 Крупный.jpeg"]
+  photos: ["images/clothes/lime_sweatshirt_ski/IMG_0420 Крупный.jpeg"
+          ,"images/clothes/lime_sweatshirt_ski/IMG_0421 Крупный.jpeg"
+          ,"images/clothes/lime_sweatshirt_ski/IMG_0422 Крупный.jpeg"
+          ]
   },
   {
   id: "napapijri-sweatshirt-xs",
@@ -177,10 +180,10 @@ const PRODUCTS = [
   price: "1164 ₽",
   short: "Розовый худи Minimo, оверсайз.",
   description: "Розовый худи Minimo оверсайз.",
-  photos: ["iimages/clothes/minimo/IMG_0279 Крупный.jpeg"
-          ,"iimages/clothes/minimo/IMG_0280 Крупный.jpeg"
-          ,"iimages/clothes/minimo/IMG_0281 Крупный.jpeg"
-          ,"iimages/clothes/minimo/IMG_0282 Крупный.jpeg"
+  photos: ["images/clothes/minimo/IMG_0279 Крупный.jpeg"
+          ,"images/clothes/minimo/IMG_0280 Крупный.jpeg"
+          ,"images/clothes/minimo/IMG_0281 Крупный.jpeg"
+          ,"images/clothes/minimo/IMG_0282 Крупный.jpeg"
           ]
   },
   {
@@ -221,7 +224,14 @@ const PRODUCTS = [
   price: "2500 ₽",
   short: "Жилетка 2MOOD",
   description: "Жилетка 2MOOD в отличном состоянии.",
-  photos: ["images/IMG_0612 Крупный.jpeg"]
+  photos: ["images/clothes/vest-2mood-grey/IMG_0727 Малый.jpeg"
+          ,"images/clothes/vest-2mood-grey/IMG_0728 Малый.jpeg"
+          ,"images/clothes/vest-2mood-grey/IMG_0729 Малый.jpeg"
+          ,"images/clothes/vest-2mood-grey/IMG_0730 Малый.jpeg"
+          ,"images/clothes/vest-2mood-grey/IMG_0731 Малый.jpeg"
+          ,"images/clothes/vest-2mood-grey/IMG_0732 Малый.jpeg"
+          ,"images/clothes/vest-2mood-grey/IMG_0733 Малый.jpeg"
+          ]
   },
   {
   id: "stingray-floor-fan",
@@ -295,7 +305,11 @@ const PRODUCTS = [
   price: "300 ₽",
   short: "Кожаные брюки Zara, размер 40-42.",
   description: "Женские кожаные брюки Zara. Размер 40-42.",
-  photos: ["images/demo.jpg"]
+  photos: ["images/clothes/zara-leather-pants_(кож_брюки)/IMG_0600 Крупный.jpeg"
+          ,"images/clothes/zara-leather-pants_(кож_брюки)/IMG_0590 Крупный.jpeg"
+          ,"images/clothes/zara-leather-pants_(кож_брюки)/IMG_0591 Крупный.jpeg"
+          ,"images/clothes/zara-leather-pants_(кож_брюки)/IMG_0592 Крупный.jpeg"
+          ]
   },
   {
   id: "ostin1-leather-pants",
@@ -437,7 +451,9 @@ const PRODUCTS = [
   price: "350 ₽",
   short: "Купальник tezenis размер S.",
   description: "Купальник tezenis, размер S.",
-  photos: ["images/demo.jpg"]
+  photos: ["images/clothes/tezenis-swimsuit/IMG_0618 Крупный.jpeg"
+          ,"images/clothes/tezenis-swimsuit/IMG_0619 Крупный.jpeg"
+          ]
   },
 
   {
@@ -463,7 +479,16 @@ const PRODUCTS = [
   price: "4000 ₽",
   short: "Анорак Запорожец, размер L.",
   description: "Анорак Запорожец размер L.",
-  photos: ["images/demo.jpg"]
+  photos: ["images/clothes/zaporozhets-anorak-l/IMG_0743 Крупный.jpeg"
+          ,"images/clothes/zaporozhets-anorak-l/IMG_0744 Крупный.jpeg"
+          ,"images/clothes/zaporozhets-anorak-l/IMG_0745 Крупный.jpeg"
+          ,"images/clothes/zaporozhets-anorak-l/IMG_0746 Крупный.jpeg"
+          ,"images/clothes/zaporozhets-anorak-l/IMG_0747 Крупный.jpeg"
+          ,"images/clothes/zaporozhets-anorak-l/IMG_0748 Крупный.jpeg"
+          ,"images/clothes/zaporozhets-anorak-l/IMG_0749 Крупный.jpeg"
+          ,"images/clothes/zaporozhets-anorak-l/IMG_0750 Крупный.jpeg"
+          ,"images/clothes/zaporozhets-anorak-l/IMG_0751 Крупный.jpeg"
+          ]
   },
 
   {
@@ -489,7 +514,12 @@ const PRODUCTS = [
   price: "300 ₽",
   short: "Рубашка Zara.",
   description: "Джинсовая рубашка Zara размер M.",
-  photos: ["images/demo.jpg"]
+  photos: ["images/clothes/zara-denim-shirt_рубашк/IMG_0708 Крупный.jpeg"
+          ,"images/clothes/zara-denim-shirt_рубашк/IMG_0709 Крупный.jpeg"
+          ,"images/clothes/zara-denim-shirt_рубашк/IMG_0710 Крупный.jpeg"
+          ,"images/clothes/zara-denim-shirt_рубашк/IMG_0711 Крупный.jpeg"
+          ,"images/clothes/zara-denim-shirt_рубашк/IMG_0712 Крупный.jpeg"
+          ]     
   },
 
   {
@@ -499,7 +529,10 @@ const PRODUCTS = [
   price: "300 ₽",
   short: "Джемпер Uniqlo.",
   description: "Джемпер Uniqlo.",
-  photos: ["images/demo.jpg"]
+  photos: ["images/clothes/uniqlo-sweater/IMG_0713 Крупный.jpeg"
+          ,"images/clothes/uniqlo-sweater/IMG_0714 Крупный.jpeg"
+          ,"images/clothes/uniqlo-sweater/IMG_0715 Крупный.jpeg"
+          ]
   },
   {
   id: "lime-dress-cotton-xs",
@@ -603,7 +636,17 @@ const PRODUCTS = [
   price: "2500 ₽",
   short: "Оригинальные джинсы Uniqlo Baggy Curve.",
   description: "Широкие джинсы Uniqlo Baggy Curve Original. Ни разу не носились.",
-  photos: ["images/demo.jpg"]
+  photos: ["images/clothes/uniqlo-baggy-curve-jeans_юникло/IMG_0487 Крупный.jpeg"
+          ,"images/clothes/uniqlo-baggy-curve-jeans_юникло/IMG_0488 Крупный.jpeg"
+          ,"images/clothes/uniqlo-baggy-curve-jeans_юникло/IMG_0489 Крупный.jpeg"
+          ,"images/clothes/uniqlo-baggy-curve-jeans_юникло/IMG_0490 Крупный.jpeg"
+          ,"images/clothes/uniqlo-baggy-curve-jeans_юникло/IMG_0491 Крупный.jpeg"
+          ,"images/clothes/uniqlo-baggy-curve-jeans_юникло/IMG_0492 Крупный.jpeg"
+          ,"images/clothes/uniqlo-baggy-curve-jeans_юникло/IMG_0540 Крупный.jpeg"
+          ,"images/clothes/uniqlo-baggy-curve-jeans_юникло/IMG_0541 Крупный.jpeg"
+          ,"images/clothes/uniqlo-baggy-curve-jeans_юникло/IMG_0542 Крупный.jpeg"
+          ,"images/clothes/uniqlo-baggy-curve-jeans_юникло/IMG_0543 Крупный.jpeg"
+  ]
   },
 
   {
@@ -611,9 +654,32 @@ const PRODUCTS = [
   category: "clothes",
   title: "Блейзер-пиджак Lime размер L",
   price: "4157 ₽",
-  short: "Блейзер Lime размер L.",
+  short: "Блейзер Lime размер L",
   description: "Пиджак-блейзер Lime размер L.",
-  photos: ["images/demo.jpg"]
+  photos: ["images/clothes/lime_blazer/IMG_0510 Крупный.jpeg"
+          ,"images/clothes/lime_blazer/IMG_0511 Крупный.jpeg"
+          ,"images/clothes/lime_blazer/IMG_0512 Крупный.jpeg"
+          ,"images/clothes/lime_blazer/IMG_0513 Крупный.jpeg"
+          ]
+  },
+  {
+  id: "tranch-zarina",
+  category: "clothes",
+  title: "Тренч zarina большого размера XL (52)",
+  price: "1100 ₽",
+  short: "Почти новый тренч zarina большого размера XL (52)",
+  description: "Почти новый тренч zarina большого размера XL (52)",
+  photos: ["images/clothes/tranch_zarina/IMG_0717 Крупный.jpeg"
+          ,"images/clothes/tranch_zarina/IMG_0718 Крупный.jpeg"
+          ,"images/clothes/tranch_zarina/IMG_0719 Крупный.jpeg"
+          ,"images/clothes/tranch_zarina/IMG_0720 Крупный.jpeg"
+          ,"images/clothes/tranch_zarina/IMG_0721 Крупный.jpeg"
+          ,"images/clothes/tranch_zarina/IMG_0723 Крупный.jpeg"
+          ,"images/clothes/tranch_zarina/IMG_0771 Крупный.jpeg"
+          ,"images/clothes/tranch_zarina/IMG_0772 Крупный.jpeg"
+          ,"images/clothes/tranch_zarina/IMG_0773 Крупный.jpeg"
+          ,"images/clothes/tranch_zarina/IMG_0774 Крупный.jpeg"
+  ]
   }
 ];
 
