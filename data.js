@@ -92,7 +92,7 @@ const PRODUCTS = [
   id: "rayban-smart-glasses",
   category: "tech",
   title: "Умные очки Ray-Ban фотохромные Wayfarer",
-  price: "34425 ₽",
+  price: "30000 ₽",
   short: "Умные очки Ray-Ban Wayfarer.",
   description: ["Умные очки Ray-Ban Wayfarer в классическом дизайне Wayfarer. Оснащены фотохромными линзами Clear/Graphite Green - прозрачные в помещении и затемняются на солнце, что делает их удобными для повседневного использования."
           ,"Размер: 50-22-150"
@@ -495,7 +495,7 @@ const PRODUCTS = [
   id: "macbook-pro-2016",
   category: "tech",
   title: "Apple MacBook Pro 15 2016 Retina Touch Bar",
-  price: "38000 ₽",
+  price: "35000 ₽",
   short: "MacBook Pro 15 Retina Touch Bar 2016.",
   description: "Apple MacBook Pro 15 Retina Touch Bar, 2016 год.",
   photos: ["images/tech/macbook/IMG_0753 Крупный.jpeg"
