@@ -237,7 +237,7 @@ const PRODUCTS = [
   id: "stingray-floor-fan",
   category: "tech",
   title: "Вентилятор напольный Stingray",
-  price: "1777 ₽",
+  price: "1300 ₽",
   short: "Напольный вентилятор Stingray.",
   description: "Вентилятор напольный Stingray.",
   photos: ["images/tech/fan/IMG_0171.jpg"
@@ -249,7 +249,7 @@ const PRODUCTS = [
   id: "status-for-life-heater",
   category: "tech",
   title: "Обогреватель электрический Status for Life",
-  price: "2666 ₽",
+  price: "2000 ₽",
   short: "Электрический обогреватель Status for Life.",
   description: "Обогреватель электрический Status for Life.",
   photos: ["images/tech/heater/IMG_0150 Крупный.jpeg"]
@@ -290,7 +290,7 @@ const PRODUCTS = [
   id: "redmi-monitor",
   category: "tech",
   title: "Монитор Redmi",
-  price: "6375 ₽",
+  price: "5500 ₽",
   short: "Монитор Redmi.",
   description: "Монитор Redmi.",
   photos: ["images/tech/screen/IMG_0098 Крупный.jpeg"
