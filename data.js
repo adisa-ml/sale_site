@@ -37,7 +37,7 @@ const PRODUCTS = [
   id: "air-jordan-1-pink",
   category: "clothes",
   title: "Air Jordan 1 Retro High OG",
-  price: "5000 ₽",
+  price: "4000 ₽",
   short: "Кроссовки Air Jordan 1 Retro High OG.",
   description: "Кроссовки Air Jordan 1 Retro High OG. Детали и дополнительные фото можно получить в Telegram.",
   photos: ["images/clothes/air_jordan/IMG_0429 Крупный.jpeg"
@@ -51,7 +51,7 @@ const PRODUCTS = [
   id: "lime-sweatshirt",
   category: "clothes",
   title: "Свитшот Lime размер S, оверсайз",
-  price: "2000 ₽",
+  price: "1200 ₽",
   short: "Свитшот Lime, размер S, оверсайз.",
   description: "Свитшот Lime в отличном состоянии, размер S, оверсайз.",
   photos: ["images/clothes/lime_sweatshirt_ski/IMG_0420 Крупный.jpeg"
@@ -63,7 +63,7 @@ const PRODUCTS = [
   id: "napapijri-sweatshirt-xs",
   category: "clothes",
   title: "Свитшот Napapijri размер XS",
-  price: "2000 ₽",
+  price: "1500 ₽",
   short: "Свитшот Napapijri, размер XS.",
   description: "Свитшот Napapijri размер XS оверсайз в хорошем состоянии",
   photos: ["images/clothes/napapijri/IMG_0413 Крупный.jpeg"
@@ -177,7 +177,7 @@ const PRODUCTS = [
   id: "minimo-pink-hoodie",
   category: "clothes",
   title: "Розовый худи Minimo оверсайз",
-  price: "1164 ₽",
+  price: "700 ₽",
   short: "Розовый худи Minimo, оверсайз.",
   description: "Розовый худи Minimo оверсайз.",
   photos: ["images/clothes/minimo/IMG_0279 Крупный.jpeg"
@@ -190,7 +190,7 @@ const PRODUCTS = [
   id: "all-we-need-leather-jacket",
   category: "clothes",
   title: "Новая косуха All We Need",
-  price: "5500 ₽",
+  price: "5000 ₽",
   short: "Косуха All We Need.",
   description: "Косуха All We Need новая.",
   photos: ["images/clothes/all_we_need/IMG_0219 Крупный.jpeg"
@@ -221,7 +221,7 @@ const PRODUCTS = [
   id: "vest-2mood-grey",
   category: "clothes",
   title: "Жилетка серая 2MOOD размер М",
-  price: "2500 ₽",
+  price: "2000 ₽",
   short: "Жилетка 2MOOD",
   description: "Жилетка 2MOOD в отличном состоянии, носилась пару раз.",
   photos: ["images/clothes/vest-2mood-grey/IMG_0727 Малый.jpeg"
@@ -390,9 +390,18 @@ const PRODUCTS = [
   price: "384 ₽ / 1шт",
   short: "Трикотажная юбка Zarina.",
   description: "Трикотажная юбка Zarina/Befree/Noname размер XS-S",
-  photos: ["images/clothes/lime_sweatshirt_ski/IMG_0420 Крупный.jpeg"
-          ,"images/clothes/lime_sweatshirt_ski/IMG_0421 Крупный.jpeg"
-          ,"images/clothes/lime_sweatshirt_ski/IMG_0422 Крупный.jpeg"
+  photos: ["images/clothes/zarina-knit-skirts_юбки/IMG_0601 Крупный.jpeg"
+          ,"images/clothes/zarina-knit-skirts_юбки/IMG_0602 Крупный.jpeg"
+          ,"images/clothes/zarina-knit-skirts_юбки/IMG_0603 Крупный.jpeg"
+          ,"images/clothes/zarina-knit-skirts_юбки/IMG_0604 Крупный.jpeg"
+          ,"images/clothes/zarina-knit-skirts_юбки/IMG_0605 Крупный.jpeg"
+          ,"images/clothes/zarina-knit-skirts_юбки/IMG_0606 Крупный.jpeg"
+          ,"images/clothes/zarina-knit-skirts_юбки/IMG_0607 Крупный.jpeg"
+          ,"images/clothes/zarina-knit-skirts_юбки/IMG_0608 Крупный.jpeg"
+          ,"images/clothes/zarina-knit-skirts_юбки/IMG_0609 Крупный.jpeg"
+          ,"images/clothes/zarina-knit-skirts_юбки/IMG_0610 Крупный.jpeg"
+          ,"images/clothes/zarina-knit-skirts_юбки/IMG_0611 Крупный.jpeg"
+          ,"images/clothes/zarina-knit-skirts_юбки/IMG_0612 Крупный.jpeg"
           ]
   },
 
@@ -628,7 +637,7 @@ const PRODUCTS = [
   id: "charmstore-pantsuit-xs-s",
   category: "clothes",
   title: "Брючный костюм Charmstore XS/S",
-  price: "5500 ₽",
+  price: "5000 ₽",
   short: "Брючный костюм Charmstore.",
   description: "Брючный костюм Charmstore размер XS/S. Замеры на фото, нет пуговки на брюках. В остальном как новый!",
   photos: ["images/clothes/charmstore-pantsuit-xs-s/IMG_0444 Крупный.jpeg"
@@ -646,7 +655,7 @@ const PRODUCTS = [
   id: "lime-palazzo-pants-xs",
   category: "clothes",
   title: "Брюки-палаццо Lime XS",
-  price: "1760 ₽",
+  price: "1250 ₽",
   short: "Брюки-палаццо Lime.",
   description: "Брюки-палаццо Lime размер XS.",
   photos: ["images/clothes/lime-palazzo-pants-xs_кожан/IMG_0494 Крупный.jpeg"
@@ -684,7 +693,7 @@ const PRODUCTS = [
   id: "lime-blazer-l",
   category: "clothes",
   title: "Блейзер-пиджак Lime размер L",
-  price: "4157 ₽",
+  price: "3000 ₽",
   short: "Блейзер Lime размер L",
   description: "Пиджак-блейзер Lime размер L. Носился два раза. ",
   photos: ["images/clothes/lime_blazer/IMG_0510 Крупный.jpeg"
@@ -692,25 +701,6 @@ const PRODUCTS = [
           ,"images/clothes/lime_blazer/IMG_0512 Крупный.jpeg"
           ,"images/clothes/lime_blazer/IMG_0513 Крупный.jpeg"
           ]
-  },
-  {
-  id: "tranch-zarina",
-  category: "clothes",
-  title: "Тренч zarina большого размера XL (52)",
-  price: "1100 ₽",
-  short: "Почти новый тренч zarina большого размера XL (52)",
-  description: "Почти новый тренч zarina большого размера XL (52)",
-  photos: ["images/clothes/tranch_zarina/IMG_0717 Крупный.jpeg"
-          ,"images/clothes/tranch_zarina/IMG_0718 Крупный.jpeg"
-          ,"images/clothes/tranch_zarina/IMG_0719 Крупный.jpeg"
-          ,"images/clothes/tranch_zarina/IMG_0720 Крупный.jpeg"
-          ,"images/clothes/tranch_zarina/IMG_0721 Крупный.jpeg"
-          ,"images/clothes/tranch_zarina/IMG_0723 Крупный.jpeg"
-          ,"images/clothes/tranch_zarina/IMG_0771 Крупный.jpeg"
-          ,"images/clothes/tranch_zarina/IMG_0772 Крупный.jpeg"
-          ,"images/clothes/tranch_zarina/IMG_0773 Крупный.jpeg"
-          ,"images/clothes/tranch_zarina/IMG_0774 Крупный.jpeg"
-  ]
   }
 ];
 
