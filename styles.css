@@ -8,7 +8,7 @@ body {
   background: #f6f3ee;
   color: #1f1f1f;
 }
-
+  
 a {
   color: inherit;
 }
@@ -146,7 +146,17 @@ h2 {
 }
 
 .product-card img {
+  aspect-ratio: 4 / 3;
+  height: auto;
+  odject-fit: contain;
+  object-position: center;
+  background: #eee;
+}
+
+.product-card img {
   height: 240px;
+  odject-fit: cover;
+  object-position: center;
 }
 
 .product-card-body {
