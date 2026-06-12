@@ -1,5 +1,5 @@
 // 1) Вставь свой Telegram сюда:
-const TELEGRAM_LINK = "https://t.me/VerbitskayaAF";
+const TELEGRAM_LINK = "https://t.me/axiom_fda";
 
 // 2) Добавляй товары в этот список.
 // category: clothes / auto / other
